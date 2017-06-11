@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "prod": "NODE_ENV=production webpack -p",
-    "setup": "rm -rf .gif && npm install && git init && git add . && git commit -m 'Initial commit'"
+    "setup": "rm -rf .gif && npm install"
   },
   "repository": {
     "type": "git",
